@@ -6,9 +6,9 @@ function Header() {
             <h1>Ann and Ryan</h1>
             <nav style={{marginLeft:"auto"}}>
                 <ul>
-                    <li><a href="#">Wedding</a></li>
-                    <li><a href="#">Lander</a></li>
-                    <li><a href="#">Chattanooga</a></li>
+                    <li><a href="/#">Wedding</a></li>
+                    <li><a href="/#">Lander</a></li>
+                    <li><a href="/#">Chattanooga</a></li>
                 </ul>
             </nav>
         </div>
