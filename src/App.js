@@ -1,4 +1,3 @@
-import storm from './storm.jpg';
 import butte from './Butte.jpg';
 import './App.css';
 import Header from './components/header';
