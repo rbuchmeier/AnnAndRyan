@@ -1,16 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=MonteCarlo&display=swap');
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: #355E3B;
 }
 
 .App-body {
@@ -26,34 +21,28 @@
 }
 h1 {
   margin: 0;
+  font-family: 'MonteCarlo', sans-serif;
+  font-size: 3rem;
 }
 ul {
   margin: 0;
   list-style-type: none;
+  padding: 0;
 }
 li {
   display: inline-block;
   margin: 0;
+  padding: 0;
 }
 a {
   display: block;
   padding: 8px;
   text-decoration: none;
   color: white;
+  font-family: 'GFS Didot', serif;
+  font-size: 1.5rem;
 }
 li a:hover {
   background-color: #111;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

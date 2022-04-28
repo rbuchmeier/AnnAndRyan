@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Glory
+- Font Author: Copyright 2016-2020 The Glory Project Authors (https://github.com/googlefonts/glory)
+- Font Source: http://fonts.gstatic.com/s/glory/v8/q5uasoi9Lf1w5t3Est24nq9blIRQwImDpn-dDi9EOQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

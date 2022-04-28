@@ -1,14 +1,15 @@
 import React from 'react'
+import {Link} from "react-router-dom";
 
 function Header() {
     return (
         <div className="App-header">
-            <h1>Ann and Ryan</h1>
+            <Link to="/"><h1>Ann and Ryan</h1></Link>
             <nav style={{marginLeft:"auto"}}>
                 <ul>
-                    <li><a href="/#">Wedding</a></li>
-                    <li><a href="/#">Lander</a></li>
-                    <li><a href="/#">Chattanooga</a></li>
+                    <li><Link to="/wedding">Wedding</Link></li>
+                  <li><Link to="/lander">Lander</Link></li>
+                  <li><Link to="/chattanooga">Chattanooga</Link></li>
                 </ul>
             </nav>
         </div>
