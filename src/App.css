@@ -19,6 +19,11 @@ body {
   color: white;
   display: flex;
 }
+.Text-body {
+  width: 60%;
+  margin: auto;
+  text-align: left;
+}
 h1 {
   margin: 0;
   font-family: 'MonteCarlo', sans-serif;
